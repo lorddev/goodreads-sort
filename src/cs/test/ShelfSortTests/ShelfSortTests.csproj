@@ -56,6 +56,8 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="ApiWrapper.cs" />
+    <Compile Include="ProgramTest.cs" />
     <Compile Include="Pseudo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

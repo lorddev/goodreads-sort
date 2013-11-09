@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace ShelfSortTests
+﻿namespace ShelfSortTests
 {
     using NUnit.Framework;
 
@@ -14,7 +8,7 @@ namespace ShelfSortTests
         [Test]
         public void TestProgram()
         {
-            ShelfSort.Program.PrintList();
+            ShelfSort.Program.PrintList("15469076");
             Assert.Inconclusive();
         }
     }

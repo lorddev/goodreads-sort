@@ -1,5 +1,4 @@
-flaming-octo-batman
-===================
+# goodreads-sort
 
 A simple Goodreads API app that sorts your books by percent completed. This is similar to the widget on the landing page that has 
 your 10 most recent books in it, but on the site, there is no way to sort by percent completed.
